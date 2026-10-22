@@ -1,0 +1,24 @@
+{
+  "name": "UNIR S.A. - Servicios Públicos",
+  "short_name": "UNIR PWA",
+  "description": "Calculadora y Verificador de Facturas de Servicios Públicos Domiciliarios",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4F7F9",
+  "theme_color": "#004B87",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
